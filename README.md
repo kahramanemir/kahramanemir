@@ -6,7 +6,9 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
+
 ---
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -14,7 +16,9 @@
 ###
 
 <p align="left">I'm Emir Kahraman.<br><br>- 📚 I'm currently 3rd year Computer Engineering Student.<br>- ⚡ In my free time I make video edits.</p>
+
 ---
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -44,7 +48,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
 </div>
+
 ---
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
