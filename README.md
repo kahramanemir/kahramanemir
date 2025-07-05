@@ -22,7 +22,7 @@ I'm Emir Kahraman.<br><br>
 ### 🛠 Language and Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" style="background-color: #fff; padding: 4px; border-radius: 6px;" alt="csharp" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" style="object-fit: contain;" alt="csharp" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python" />
