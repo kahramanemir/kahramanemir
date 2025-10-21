@@ -12,7 +12,7 @@
 ### 👋 About Me
 
 Hi, I'm **Emir Kahraman**  
-- 🎓 3rd year Computer Engineering Student 
+- 🎓 4th year Computer Engineering Student 
 - 🤖 Currently learning and exploring Machine Learning and Artificial Intelligence
 - 🎮 Also diving into game development using Unity
 - 🎥 In my free time, I enjoy making video edits
