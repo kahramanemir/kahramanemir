@@ -26,7 +26,7 @@
 
 | Project | What I built | Stack |
 | --- | --- | --- |
-| Private Thesis Project | A private graduation project centered on document understanding and AI-supported presentation generation. I am keeping the implementation details limited for now. | `Python` `FastAPI` `OCR` `RAG` `LLM` |
+| Thesis Project | A private graduation project centered on document understanding and AI-supported presentation generation. I am keeping the implementation details limited for now. | `Python` `FastAPI` `OCR` `RAG` `LLM` |
 | [Telescope Simulation](https://github.com/kahramanemir/telescope-simulation) | A Unity-based telescope simulation with real-time celestial tracking, Python-powered astronomy calculations, and interactive control systems. | `Unity` `C#` `Python` `Astropy` |
 | [TahminOyun (Guessing Games Portal)](https://github.com/kahramanemir/TahminOyun) | A real-time multiplayer guessing games portal with room-based play, bot modes, and localized word-based gameplay. | `Node.js` `Express` `Socket.IO` `JavaScript` |
 | [Auto Checkers](https://github.com/kahramanemir/Auto_Checkers) | An AI-powered checkers project where agents compete using algorithms like Alpha-Beta Pruning and MCTS. | `Python` `Pygame` `DearPyGui` |
