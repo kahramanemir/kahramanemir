@@ -161,9 +161,15 @@ Python automation scripts for **security report generation** and tooling workflo
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kahramanemir&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=3b82f6&text_color=c9d1d9&rank_icon=github" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kahramanemir&theme=github_dark" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahramanemir&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&langs_count=8" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kahramanemir&theme=github_dark" />
+
+<br/><br/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kahramanemir&theme=github_dark" />
+&nbsp;
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kahramanemir&theme=github_dark&utcOffset=3" />
 
 <br/><br/>
 
@@ -191,5 +197,5 @@ Python automation scripts for **security report generation** and tooling workflo
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,30:1a4fa0,70:0d2b6b,100:0a0f2e&height=120&section=footer" width="100%" />
 
 <div align="center">
-  <sub>⚡ Thanks for stopping by! Let's build something great together. ⚡</sub>
+  <sub>⚡ Thanks for stopping by! ⚡</sub>
 </div>
