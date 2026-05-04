@@ -34,8 +34,7 @@
 
 </div>
 
-<!-- ▸ ANIMATED DIVIDER ────────────────────────────────────────── -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+---
 
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
 <!-- ║                       ABOUT ME                            ║ -->
@@ -53,9 +52,7 @@ interests  : [ Algorithms, Interactivity, Real-world Behavior ]
 hobbies    : [ Video Editing, Visual Production, Game Design ]
 ```
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
-</div>
+---
 
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
 <!-- ║                    FEATURED PROJECTS                      ║ -->
@@ -120,25 +117,7 @@ Python automation scripts for **security report generation** and tooling workflo
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
-</div>
-
-<!-- ╔═══════════════════════════════════════════════════════════╗ -->
-<!-- ║                     CURRENT FOCUS                         ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp; Current Focus
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=60A5FA&center=true&vCenter=true&width=700&height=40&lines=%F0%9F%94%B5+Building+interactive+systems+with+Unity+and+C%23;%F0%9F%94%B5+Writing+Python+tools+for+simulations+%26+automation;%F0%9F%94%B5+Exploring+AI+through+game+logic+and+agents;%F0%9F%94%B5+Improving+backend+%26+database+design+skills;%F0%9F%94%B5+Building+a+private+thesis+on+AI+document+workflows)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
-</div>
+---
 
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
 <!-- ║                  LANGUAGES & TOOLS                        ║ -->
@@ -160,9 +139,7 @@ Python automation scripts for **security report generation** and tooling workflo
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
-</div>
+---
 
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
 <!-- ║                     GITHUB STATS                          ║ -->
@@ -180,17 +157,9 @@ Python automation scripts for **security report generation** and tooling workflo
 
 <img src="https://streak-stats.demolab.com?user=kahramanemir&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=60a5fa&currStreakLabel=60a5fa" />
 
-<br/><br/>
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=kahramanemir&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
-</div>
+---
 
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
 <!-- ║                  CONTRIBUTION ACTIVITY                    ║ -->
@@ -201,20 +170,6 @@ Python automation scripts for **security report generation** and tooling workflo
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kahramanemir&bg_color=0d1117&color=60a5fa&line=3b82f6&point=ffffff&hide_border=true&area=true&area_color=1d4ed8" width="98%" />
-
-<br/><br/>
-
-<!-- ▸ ANIMATED SNAKE EATING CONTRIBUTIONS ─────────────────────── -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="98%" />
-
-</div>
-
-<br/>
-
-<!-- ▸ ANIMATED QUOTE ──────────────────────────────────────────── -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=2000&color=93C5FD&center=true&vCenter=true&width=600&height=40&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.%22;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22)](https://git.io/typing-svg)
 
 </div>
 
