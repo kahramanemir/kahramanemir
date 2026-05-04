@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ▸ ANIMATED HEADER WAVE ─────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2e,30:0d2b6b,70:1a4fa0,100:3b82f6&height=240&section=header&text=Emir%20Kahraman&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=%E2%97%86%20Builder%20%E2%97%86%20Maker%20%E2%97%86%20Computer%20Engineering%20Student%20%E2%97%86&descAlignY=58&descSize=16&descColor=93c5fd&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2e,30:0d2b6b,70:1a4fa0,100:3b82f6&height=220&section=header&text=Emir%20Kahraman&fontSize=72&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" />
 
 <!-- ▸ WAVING HAND + GREETING ──────────────────────────────────── -->
 <h2>
@@ -27,11 +27,6 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
 </a>
 
-<br/><br/>
-
-<!-- ▸ PROFILE COUNTER ─────────────────────────────────────────── -->
-<img src="https://komarev.com/ghpvc/?username=kahramanemir&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS" />
-
 </div>
 
 ---
@@ -42,15 +37,32 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; About Me
 
-```yaml
-name       : Emir Kahraman
-role       : Computer Engineering Student
-location   : Turkey
-focus      : [ Simulations, Game Systems, AI Agents, Backend Tools ]
-currently  : Thesis — AI-assisted document & presentation workflows
-interests  : [ Algorithms, Interactivity, Real-world Behavior ]
-hobbies    : [ Video Editing, Visual Production, Game Design ]
+<table>
+<tr>
+<td width="55%" valign="top">
+
+I'm a **Computer Engineering** student based in **Turkey**, building things at the intersection of algorithms, interactivity, and real-world behavior.
+
+Right now I'm focused on **simulations**, **game systems**, **AI experiments**, and small **backend tools**. I'm also working on a private **thesis project** centered on AI-assisted document and presentation workflows.
+
+When I'm not coding, I'm probably editing videos or experimenting with visual production.
+
+</td>
+<td width="45%" valign="top">
+
+<br/>
+
+```text
+🎯  Focus      Simulations · AI · Backend
+🛠️  Stack      Unity · Python · Node.js
+🎓  Status     Final-year CE student
+📚  Thesis     AI document workflows
+🎨  Hobby      Video & visual editing
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
