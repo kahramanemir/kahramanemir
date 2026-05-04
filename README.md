@@ -7,17 +7,6 @@
 <!-- ▸ ANIMATED HEADER WAVE ─────────────────────────────────────── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2e,30:0d2b6b,70:1a4fa0,100:3b82f6&height=220&section=header&text=Emir%20Kahraman&fontSize=72&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" />
 
-<!-- ▸ WAVING HAND + GREETING ──────────────────────────────────── -->
-<h2>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" />
-  &nbsp;Hey there, I'm Emir!
-</h2>
-
-<!-- ▸ ANIMATED TYPING SECTION ─────────────────────────────────── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=800&color=60A5FA&center=true&vCenter=true&multiline=false&width=720&height=60&lines=%E2%9C%A6+Simulations+%E2%80%A2+Game+Systems+%E2%80%A2+AI+Experiments;%E2%9C%A6+Unity+%E2%80%A2+Python+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;%E2%9C%A6+Turning+ideas+into+working+software.;%E2%9C%A6+Always+learning%2C+always+building.)](https://git.io/typing-svg)
-
-<br/>
-
 <!-- ▸ SOCIAL BADGES ───────────────────────────────────────────── -->
 <a href="https://www.linkedin.com/in/emir-kahraman/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
