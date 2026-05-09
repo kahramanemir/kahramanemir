@@ -66,7 +66,7 @@ When I'm not coding, I'm probably editing videos or experimenting with visual pr
 <td width="50%" valign="top">
 
 ### 🎓 Thesis Project *(Private)*
-AI-assisted graduation project focused on **document understanding** and **presentation generation**.
+Graduation project focused on **document understanding** and **presentation generation**.
 
 `Python` `FastAPI` `OCR` `RAG` `LLM`
 
