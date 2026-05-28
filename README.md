@@ -4,16 +4,20 @@
 
 <div align="center">
 
-<!-- ▸ ANIMATED HEADER WAVE ─────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2e,30:0d2b6b,70:1a4fa0,100:3b82f6&height=220&section=header&text=Emir%20Kahraman&fontSize=72&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" />
+<!-- ▸ MONOCHROME HEADER WAVE ───────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:30363d&height=200&section=header&text=Emir%20Kahraman&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20·%20Simulations%20·%20AI%20·%20Backend&descSize=16&descAlignY=58&descAlignX=50" width="100%" />
 
 <!-- ▸ SOCIAL BADGES ───────────────────────────────────────────── -->
 <a href="https://www.linkedin.com/in/emir-kahraman/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/firo.ae/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
+</a>
+&nbsp;
+<a href="https://kahramanemir.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=githubpages&logoColor=white" height="28" />
 </a>
 
 </div>
@@ -24,7 +28,7 @@
 <!-- ║                       ABOUT ME                            ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; About Me
+## About Me
 
 <table>
 <tr>
@@ -32,7 +36,7 @@
 
 I'm a **Computer Engineering** student based in **Turkey**, building things at the intersection of algorithms, interactivity, and real-world behavior.
 
-Right now I'm focused on **simulations**, **game systems**, **AI experiments**, and small **backend tools**. I'm also working on a private **thesis project** centered on AI-assisted document and presentation workflows.
+Right now I'm focused on **simulations**, **game systems**, **AI experiments**, and **backend tooling** — with a strong interest in **distributed systems** and **AI-agent safety**. My thesis is an end-to-end **AI-assisted document & presentation** pipeline.
 
 When I'm not coding, I'm probably editing videos or experimenting with visual production.
 
@@ -42,11 +46,11 @@ When I'm not coding, I'm probably editing videos or experimenting with visual pr
 <br/>
 
 ```text
-🎯  Focus      Simulations · AI · Backend
-🛠️  Stack      Unity · Python · Node.js
-🎓  Status     Final-year CE student
-📚  Thesis     AI document workflows
-🎨  Hobby      Video & visual editing
+Focus     Simulations · AI · Backend
+Stack     Rust · Go · Python · C# · Node.js
+Status    Final-year CE student
+Thesis    AI document & slide workflows
+Hobby     Video & visual editing
 ```
 
 </td>
@@ -59,22 +63,40 @@ When I'm not coding, I'm probably editing videos or experimenting with visual pr
 <!-- ║                    FEATURED PROJECTS                      ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/W3WNGlS3jJWuNg7Cwq/giphy.gif" width="30"> &nbsp; Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Thesis Project *(Private)*
-Graduation project focused on **document understanding** and **presentation generation**.
+### [Vallum](https://github.com/kahramanemir/Vallum)
+A Rust CLI proxy that sits between **AI agents and your shell** as a security boundary — redacting secrets, neutralizing prompt injection, and wrapping output as untrusted data.
 
-`Python` `FastAPI` `OCR` `RAG` `LLM`
+`Rust` `CLI` `Security` `LLM Tooling`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔭 [Telescope Simulation](https://github.com/kahramanemir/telescope-simulation)
-Unity-based telescope with **real-time celestial tracking** and Python-powered astronomy calculations.
+### OptiAgent &nbsp;·&nbsp; `Private`
+Graduation thesis: end-to-end **presentation generation** from PDF/Word/Excel via **OCR + RAG**, producing grounded, editable slides with PPTX/PDF export.
+
+`Python` `FastAPI` `RAG` `OCR` `LLM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Ring of the Middle Earth &nbsp;·&nbsp; `Private`
+Turn-based **distributed** strategy game. Orders validated through **Kafka**, three Go engine instances, compacted KTable state, info-hiding enforced per layer.
+
+`Go` `Kafka` `Distributed Systems` `Avro`
+
+</td>
+<td width="50%" valign="top">
+
+### [Telescope Simulation](https://github.com/kahramanemir/telescope-simulation)
+Unity-based telescope with **real-time celestial tracking**, stepper-motor control, and Python (Astropy) astronomy calculations over UDP/TCP.
 
 `Unity` `C#` `Python` `Astropy`
 
@@ -83,36 +105,36 @@ Unity-based telescope with **real-time celestial tracking** and Python-powered a
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 [TahminOyun](https://github.com/kahramanemir/TahminOyun)
-Real-time **multiplayer guessing games** portal with room-based play, bots, and localized word gameplay.
+### [Auto Checkers](https://github.com/kahramanemir/Auto_Checkers)
+AI agents competing via **Alpha-Beta Pruning** and **MCTS**, with parallel simulation and a configurable agent menu.
 
-`Node.js` `Express` `Socket.IO` `JavaScript`
+`Python` `Pygame` `DearPyGui`
 
 </td>
 <td width="50%" valign="top">
 
-### ♟️ [Auto Checkers](https://github.com/kahramanemir/Auto_Checkers)
-AI agents competing via **Alpha-Beta Pruning** and **MCTS** in a full checkers environment.
+### Online Quiz App &nbsp;·&nbsp; `Private`
+Role-based **Spring Boot** quiz platform — auth, timed quizzes, category leaderboards, snapshot results, and an admin management panel.
 
-`Python` `Pygame` `DearPyGui`
+`Java` `Spring Boot` `JPA` `Chart.js`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 [E-Commerce DBMS](https://github.com/kahramanemir/E-Commerce)
-Full e-commerce system with **PostgreSQL schemas**, triggers, and business workflow modeling.
+### Ben Kimim &nbsp;·&nbsp; `Private`
+Real-time multiplayer **"Who am I?" party game** — phone-per-player, room codes, turn chains, and live countdown rounds over sockets.
 
-`PostgreSQL` `SQL`
+`Node.js` `Socket.IO` `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 [Security Report Scripts](https://github.com/kahramanemir/security_report_scripts)
-Python automation scripts for **security report generation** and tooling workflows.
+### [Star Language](https://github.com/kahramanemir/Star-Language)
+A custom **interpreted programming language** with its own lexer and interpreter, supporting variables, arithmetic, loops, and I/O — written in C.
 
-`Python` `Automation`
+`C` `Interpreter` `Lexer`
 
 </td>
 </tr>
@@ -124,19 +146,33 @@ Python automation scripts for **security report generation** and tooling workflo
 <!-- ║                  LANGUAGES & TOOLS                        ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp; Languages & Tools
+## Languages & Tools
 
 <div align="center">
 
-[![Tech Stack](https://skillicons.dev/icons?i=cs,c,java,python,js,nodejs,postgresql,unity,git,github&theme=dark&perline=10)](https://skillicons.dev)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=white)
 
-<br/><br/>
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-0d1117?style=flat-square&logo=spring&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-0d1117?style=flat-square&logo=socketdotio&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-0d1117?style=flat-square&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=white)
 
-### Creative Suite
+<br/>
 
-[![Creative Tools](https://skillicons.dev/icons?i=ae,ps,pr&theme=dark)](https://skillicons.dev)
-
-*Video editing and visual production alongside coding.*
+**Creative Suite** &nbsp;·&nbsp;
+![After Effects](https://img.shields.io/badge/After%20Effects-0d1117?style=flat-square&logo=adobeaftereffects&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Premiere](https://img.shields.io/badge/Premiere%20Pro-0d1117?style=flat-square&logo=adobepremierepro&logoColor=white)
 
 </div>
 
@@ -146,45 +182,25 @@ Python automation scripts for **security report generation** and tooling workflo
 <!-- ║                     GITHUB STATS                          ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> &nbsp; GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kahramanemir&theme=github_dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kahramanemir&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" />
 &nbsp;
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kahramanemir&theme=github_dark" />
+<img height="170" src="https://streak-stats.demolab.com?user=kahramanemir&hide_border=true&background=0d1117&border=30363d&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" />
 
 <br/><br/>
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kahramanemir&theme=github_dark" />
-&nbsp;
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kahramanemir&theme=github_dark&utcOffset=3" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=kahramanemir&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=60a5fa&currStreakLabel=60a5fa" />
-
-</div>
-
----
-
-<!-- ╔═══════════════════════════════════════════════════════════╗ -->
-<!-- ║                  CONTRIBUTION ACTIVITY                    ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30"> &nbsp; Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kahramanemir&bg_color=0d1117&color=60a5fa&line=3b82f6&point=ffffff&hide_border=true&area=true&area_color=1d4ed8" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kahramanemir&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=30363d&hide_border=true" width="98%" />
 
 </div>
 
 <br/>
 
-<!-- ▸ ANIMATED FOOTER WAVE ─────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,30:1a4fa0,70:0d2b6b,100:0a0f2e&height=120&section=footer" width="100%" />
+<!-- ▸ MONOCHROME FOOTER WAVE ───────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:000000&height=120&section=footer" width="100%" />
 
 <div align="center">
-  <sub>⚡ Thanks for stopping by! ⚡</sub>
+  <sub>Thanks for stopping by.</sub>
 </div>
