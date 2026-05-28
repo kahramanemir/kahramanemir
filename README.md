@@ -8,17 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:30363d&height=200&section=header&text=Emir%20Kahraman&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20·%20Simulations%20·%20AI%20·%20Backend&descSize=16&descAlignY=58&descAlignX=50" width="100%" />
 
 <!-- ▸ SOCIAL BADGES ───────────────────────────────────────────── -->
-<a href="https://www.linkedin.com/in/emir-kahraman/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/firo.ae/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
-</a>
-&nbsp;
-<a href="https://kahramanemir.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=githubpages&logoColor=white" height="28" />
-</a>
+<a href="https://www.linkedin.com/in/emir-kahraman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a> &nbsp;&nbsp; <a href="https://www.instagram.com/firo.ae/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge" height="28" /></a> &nbsp;&nbsp; <a href="https://kahramanemir.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge" height="28" /></a>
 
 </div>
 
