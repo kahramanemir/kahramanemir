@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ▸ MONOCHROME HEADER WAVE ───────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:30363d&height=200&section=header&text=Emir%20Kahraman&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20·%20Simulations%20·%20AI%20·%20Backend&descSize=16&descAlignY=58&descAlignX=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:30363d&height=200&section=header&text=Emir%20Kahraman&fontSize=58&fontColor=ffffff&fontAlignY=50" width="100%" />
 
 <!-- ▸ SOCIAL BADGES ───────────────────────────────────────────── -->
 <a href="https://www.linkedin.com/in/emir-kahraman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a> &nbsp;&nbsp; <a href="https://www.instagram.com/firo.ae/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge" height="28" /></a> &nbsp;&nbsp; <a href="https://kahramanemir.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge" height="28" /></a>
@@ -176,9 +176,7 @@ A custom **interpreted programming language** with its own lexer and interpreter
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kahramanemir&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" />
-&nbsp;
-<img height="170" src="https://streak-stats.demolab.com?user=kahramanemir&hide_border=true&background=0d1117&border=30363d&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" />
+<img height="180" src="https://streak-stats.demolab.com?user=kahramanemir&hide_border=true&background=0d1117&border=30363d&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" />
 
 <br/><br/>
 
