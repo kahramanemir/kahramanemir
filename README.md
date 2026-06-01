@@ -77,7 +77,7 @@ Graduation thesis: end-to-end **presentation generation** from PDF/Word/Excel vi
 <tr>
 <td width="50%" valign="top">
 
-### Ring of the Middle Earth &nbsp;·&nbsp; `Private`
+### [Ring of the Middle Earth](https://github.com/kahramanemir/ring_of_the_middle_earth)
 Turn-based **distributed** strategy game. Orders validated through **Kafka**, three Go engine instances, compacted KTable state, info-hiding enforced per layer.
 
 `Go` `Kafka` `Distributed Systems` `Avro`
